@@ -1,2 +1,25 @@
 # Marmot-gut-DNA-virome
-Deciphering the marmot gut virome: antimicrobial potential,Metabolic contribution, and the dissemination risk of antibiotic resistance genes
+
+This repository contains all data and materials used for generating figures in the manuscript "Deciphering the marmot gut virome: antimicrobial potential,Metabolic contribution, and the dissemination risk of antibiotic resistance genes" as well as viral sequences analyzed in this study.
+
+Repository Structure
+├── Figures_Data/
+│   ├── Fig1a/
+│   ├── Fig1b/
+│   ├── Fig1c/
+│   └── ...
+├── Viral_Sequences/
+│   ├── vOTUs.fasta
+│   ├── RVS.fasta
+│   └── ...
+├── Scripts/
+│   └── data_processing_scripts/
+├── README.md
+
+Folders Description
+
+Figures_Data/: Contains the processed datasets used to generate each figure in the manuscript. Each figure folder includes raw and processed tables, as well as any supplementary information needed to reproduce the figure.
+
+Viral_Sequences/: Contains all viral sequences identified in this study, including virus operational taxonomic units (vOTUs) and sequences associated with metagenome-assembled genomes (MAGs).
+
+Scripts/: Contains scripts used for data processing and sequence analysis. Scripts are provided as references to facilitate reproducibility.
