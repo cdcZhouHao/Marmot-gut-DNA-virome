@@ -18,8 +18,6 @@ as well as viral sequences analyzed in this study.
 ├── Viral_Sequences/
 │   ├── vOTUs.fasta
 │   └── RVS.fasta
-├── Scripts/
-│   └── data_processing_scripts/
 └── README.md
 
 
@@ -28,6 +26,5 @@ as well as viral sequences analyzed in this study.
 
 - **Figures_Data/**: Contains the processed datasets used to generate each figure in the manuscript. Each figure folder includes raw and processed tables, as well as any supplementary information needed to reproduce the figure.
 
-- **Viral_Sequences/**: Contains all viral sequences identified in this study, including virus operational taxonomic units (vOTUs) and sequences associated with metagenome-assembled genomes (MAGs).
+- **Viral_Sequences/**: Contains all viral sequences identified in this study, including virus operational taxonomic units (vOTUs) and representative viral sequences (RVS).
 
-- **Scripts/**: Contains scripts used for data processing and sequence analysis. Scripts are provided as references to facilitate reproducibility.
