@@ -2,7 +2,7 @@
 
 This repository contains all data and materials used for generating figures in the manuscript:
 
-**"Deciphering the marmot gut virome: antimicrobial potential, metabolic contribution, and the dissemination risk of antibiotic resistance genes"**
+**"Deciphering the DNA Virome in Marmot Gut: Antimicrobial Potential, Metabolic Contribution, and the Dissemination Risk of Antibiotic Resistance Genes"**
 
 as well as viral sequences analyzed in this study.
 
